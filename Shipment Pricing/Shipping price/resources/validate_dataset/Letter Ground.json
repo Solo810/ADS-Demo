@@ -1,0 +1,1 @@
+{"operationId":null,"body":"{\"distance\":1000,\"shipment\":{\"size\":\"Letter\",\"weight\":0.9},\"method\":{\"transport\":\"Air\",\"pickup\":\"Dropoff\",\"nextDay\":true},\"customer\":\"Silver\"}"}
